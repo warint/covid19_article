@@ -54,6 +54,14 @@ To participate, students need to form teams of 3 people. In order to cover the w
 
 Teams must designate a team leader and fill up this form here
 
+
+
+# Motivation
+
+This initiative just wants to be a positive use of our time and resources to potentially help communities around us or around the world
+
+The logic of open science <https://www.scienceguide.nl/2020/04/dire-times-of-covid-19-stress-the-societal-importance-of-open-science/>
+
 # Pedagogical Objectives
 
 We are starting to see a lot of online initiatives about Covid-19, and notably about data visualizations. Even if they are numerous, they tend to be very close to each other. And although visualizations are important for our own dashboard, we can augment them with some data science perspectives, for instance in terms of sentiment analysis, or predictive modelling.
@@ -127,14 +135,6 @@ SKEMA Global lab can and should be a living model of these values. To this end, 
 Through our personal commitment to these values, we can create an environment in which all can achieve their full potential.
 
 
-
-# Motivation
-
-This initiative just wants to be a positive use of our time and resources
-to potentially help communities around us or around the world
-
-
-# Functionality and Reproducible demonstration
 
 
 
