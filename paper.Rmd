@@ -1,0 +1,150 @@
+---
+# Example from https://joss.readthedocs.io/en/latest/submitting.html
+title: "Hacking Health Covid-19: A Hackathon"
+tags:
+  - R
+  - hackathon
+  - package
+  - API
+authors:
+  - name: Thierry Warin
+    orcid: 0000-0002-5921-3428
+    affiliation: "1, 2" # (Multiple affiliations must be quoted)
+affiliations:
+ - name: Professor, SKEMA Business School (Raleigh, North Carolina, USA)
+   index: 1
+ - name: Principal Investigator, CIRANO (Montreal, Canada)
+   index: 2
+citation_author: Warin
+date: 29 April
+year: 2020
+bibliography: ["packages.bib", "packages2.bib"]
+output: rticles::joss_article
+csl: apa-6th-edition.csl
+journal: JOSS
+---
+
+# Summary
+
+- Indiquer les packages créés
+- faire un tableau des 12 cours
+- faire un tableau des 12 modules proposés avec les exemples et les solutions proposés dans le campus virtuel
+- décrire la plateforme: OKB, RStudio
+
+
+Context
+
+In these trying times for people across the world, we feel fortunate to have access to the Internet, and to be - relatively - able to pursue our mission thanks to our technologies. As a research lab, the SKEMA Global Lab in AI is also fortunate to have access to a platform dedicated to research in Data Science.
+
+In the world context, on top of its normal operations, the Lab’s team has decided to devote some resources to open its platform, both in terms of technology and human resources, to contribute to the world conversation about Covid-19. SKEMA’ students who are interested in contributing to thi initiative are very welcome. The goal is to make a contribution to the world conversation with science at its core.
+
+For this initiative, we want to be as open as possible in this initiative. We want to build on open data, open code, open research, and open source software as much as possible. Why? Because we want to ensure our results are at the highest level possible of reproducibility in order to allow anyone on the planet to be able to replicate, validate and augment our potential contributions.
+
+This initiative is not an official initiative from SKEMA, it is just a pilot program in the current context. To help federate our student body, we call it Hacking Health Covid-19. Since it is just an initiative from the SKEMA Global Lab in AI, it does not provide any credit to students. The good news is: no credit, no pressure. We believe the impact on our communities is a big enough motivation.
+
+At the end of the period, a committee will decide on the 3 best contributions to this initiative. Three teams will be rewarded with an honorific prize, which will be announced on June 15, 2020.
+
+Once the overall initiative is organized around a website / dashboard accessible to the public, we will consider potential outputs such as this one https://fr.unesco.org/events/hackaton-codethecurve
+
+This Hacking Health Covid-19 has similarities with hackathons and also one main difference: it is similar since it requires a strong involvement on a short period of time to create a viable contribution, and it is also different in the sense that it spans over a 6-week period. It starts on April 7 and ends on May 18, 2020. The fact that it lasts 6 weeks mean that teams will be able to enter at any point of time and can finish before May the 18th. Teams jump in and out when they want during this period.
+
+Starting on April 7th and finishing late May, our Lab team will assemble the different contributions into our overall Hacking Health Covid-19 dashboard. Participants and the public will be able to see the dashboard in construction on our Hacking Health Covid-19’s website.
+
+To participate, students need to form teams of 3 people. In order to cover the whole range from web apps development to statistics and machine learning, we will R. Coding knowledge in R is thus advisable. Now, team members can have different level. Teams will have access to online peer learning sessions on our communication platform and on our virtual campus. They will be able to train themselves on the fundamentals of R.
+
+Teams must designate a team leader and fill up this form here
+
+# Pedagogical Objectives
+
+We are starting to see a lot of online initiatives about Covid-19, and notably about data visualizations. Even if they are numerous, they tend to be very close to each other. And although visualizations are important for our own dashboard, we can augment them with some data science perspectives, for instance in terms of sentiment analysis, or predictive modelling.
+
+An exemple of great visualizations is https://ourworldindata.org/coronavirus-data.
+
+Our main objective is to provide a scientific perspective to the world conversation and to open up our contribution so that other people can leverage it.
+
+By providing a scientific perspective, we mean to propose contributions that can be validated by others, and shedding a slightly different light to the pandemic. A Github repo has been created to host the code and serves also as a data warehouse, which can be found here.
+
+By providing a scientific perspective, we mean to propose contributions that can be validated by others, and shedding a slightly different light to the pandemic.
+What is it about?
+
+This Hacking Health Covid-19 has similarities with hackathons and also one main difference: it is similar since it requires a strong involvement on a short period of time (or multiple shorts periods) to create a viable contribution, and it is also different in the sense that it spans over a 6-week period.
+Why this initiative?
+
+This initiative just wants to be a positive use of our time and resources to potentially help communities around us or around the world. Have a look here to read our mission statement.
+Who is eligible?
+
+All students from SKEMA Business School are eligible and can participate in this Hacking Health.
+What are the expectations?
+
+You will build and propose a module to our committee. This module will be integrated in a dashboard/website powered by the SKEMA Global Lab in Augmented Intelligence.
+Our main objective is to provide a scientific perspective to the world conversation and to open up our contribution so that other people can leverage it. Open data + open code + open research = reproducible research.
+
+What is the outcome?
+
+The SKEMA Global Lab in Augmented Intelligence will make available to the community a dashboard/website based on open and reproducible research.
+How can I participate?
+
+To participate, students need to form teams of 3 people. Teams must designate a team leader and fill up this form: Registration form to Hacking Health Covid-19
+What are the dates?
+
+It starts on April 7 and ends on May 18, 2020. The fact that it lasts 6 weeks means that teams will be able to enter at any point of time and can finish before May the 18th. Teams jump in and out whenever they want during this period.
+What are the tools made available by the SKEMA Global Lab in AI?
+
+First, we make our research platform available. It's a combination of cutting-edge tools that we use in our research. This platform includes a communication platform - our Open Knowledge Base -, a virtual campus where they will have access to a lot of the code we are using in research, and to a computing platform where they will be able to integrate their R code
+
+We have also developed a unique environment to support this Hacking Health. You will find a lot of resources to help you build your module (data, examples of potential modules, etc.) but also many tutorials to help you in the design and coding of your module.
+
+Don't wait any longer and discover our environment for this Hacking Health:
+
+This Hacking Health Covid-19 starts on April 7 and ends on May 18, 2020. It is a jump in jump out process. Teams will be able to join late April, or to propose their contribution before May 18. The end date is just the ultimate date when our Lab team will stop accepting new contributions.
+Meetings
+
+Meetings will be organized every week during the period spanning from April 7th to May 18th:
+
+    Tuesday April 14, 2020, 2:30 PM - 5:30 PM [limited number of seats]
+    Wednesday April 15, 2020, 2:30 PM - 5:30 PM [limited number of seats]
+    Monday April 20, 2020, 3 PM - 4 PM
+    Monday April 27, 2020, 3 PM - 4 PM
+    Monday May 4, 2020, 3 PM - 4 PM
+    Monday May 11, 2020, 3 PM - 4 PM
+
+ Community Values
+
+It Is Essential to Foster a Supportive Online Learning Environment.
+
+At SKEMA Global Lab in AI, we believe it is essential for all participants to exemplify and uphold the SKEMA Quantum Studio Community Values in order to foster a supportive online learning environment where individuals can have open discussion, reflect on their thinking, and learn from each other.
+
+The mission of the SKEMA Global Lab in AI is to educate leaders who make a difference in the world. Achieving this mission requires an environment of trust and mutual respect, free expression and inquiry, and a commitment to truth, excellence, and lifelong learning.
+
+Students, program participants, faculty, staff, and alumni accept these principles when they join the SKEMA Quantum Studio community. In doing so, they agree to abide by the following Community Values:
+
+    RESPECT FOR THE RIGHTS, DIFFERENCES, AND DIGNITY OF OTHERS
+    HONESTY AND INTEGRITY IN DEALING WITH ALL MEMBERS OF THE COMMUNITY
+    ACCOUNTABILITY FOR PERSONAL BEHAVIOR
+
+SKEMA Global lab can and should be a living model of these values. To this end, community members have a personal responsibility to integrate these values into every aspect of their experience at SKEMA Global Lab
+
+Through our personal commitment to these values, we can create an environment in which all can achieve their full potential.
+
+
+
+# Motivation
+
+This initiative just wants to be a positive use of our time and resources
+to potentially help communities around us or around the world
+
+
+# Functionality and Reproducible demonstration
+
+
+
+# Availability
+
+
+
+# Acknowledgements
+
+The author would like to thank the Center for Interuniversity Research and Analysis of Organizations (CIRANO, Montreal) for its support, as well as Thibault Senegas, Marine Leroi and Martin Paquette at SKEMA Global Lab in AI. The usual caveats apply.
+
+# References
+
