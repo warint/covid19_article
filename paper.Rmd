@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Summary
 
-During the covid-19 first quarantine, lots of universities closed their facilities and offered online courses. Ours was subject to the same predicament. In this context, our data science laboratory has decided to organize a course-project about Covid-19. This initiative just wanted to be a positive use of our time and resources to potentially help communities around us or around the world. The course-project is about teaching data science using the R language. The question is to define the perimeter of data science: from unstructured data to mapping, through Natural Language Processing (NLP) and predictive modelling.
+During the Covid-19 first quarantine period, lots of universities closed their facilities and offered online courses. Ours was subject to the same predicament. In this context, our data science laboratory has decided to organize a course-project about Covid-19. This initiative just wanted to be a positive use of our time and resources to potentially help communities around us or around the world. The course-project is about teaching data science using the R language. The question is to define the perimeter of data science: from unstructured data to mapping, through Natural Language Processing (NLP) and predictive modelling.
 
 The course-project was called "Hacking Health Covid-19" for it had similarities with hackathons and also one main difference: it is similar since it requires a strong involvement on a short period of time to create a viable contribution, and it is also different in the sense that it spans over a 6-week period.
 
