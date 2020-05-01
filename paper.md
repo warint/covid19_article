@@ -23,9 +23,7 @@ output: rticles::joss_article
 csl: apa-6th-edition.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Summary
 
