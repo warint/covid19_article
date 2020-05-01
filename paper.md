@@ -1,6 +1,6 @@
 ---
 # Example from https://joss.readthedocs.io/en/latest/submitting.html
-title: "Hacking Health Covid-19: An Online Course-Project"
+title: "Hacking Health Covid-19: An Online Data Science Course-Project"
 tags:
   - R
   - hackathon
