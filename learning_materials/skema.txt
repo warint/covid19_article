@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- # HEAD PART 
+    ========================================================================== -->  
+
+	<head>
+<style type="text/css">
+.knitr .inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.rimage .left {
+  text-align: left;
+}
+.rimage .right {
+  text-align: right;
+}
+.rimage .center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+		<meta charset="UTF-8">
+		<title>Nuance-R.com</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- FAVICON -->
+		<link rel="icon" type="image/png" href="https://sites.socialdatasciencelab.org/metadataicons/favicon.png">
+		<!-- FONTS -->
+		<link rel="stylesheet" href="assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/fonts/iconsmind/iconsmind.css">
+		<!-- STYLESHEETS -->
+		<link rel="stylesheet" href="assets/css/plugins.min.css">
+		<link rel="stylesheet" href="assets/css/style.css">
+	</head>
+
+
+<!-- # BODY PART
+    ========================================================================== -->
+
+	<body>
+		<div class="vl-site-holder animsition vl-footer-fixed">
+			<div class="vl-content-holder">
+			  
+
+<!-- ## Navigation bar / Menu 
+    _________________________________________________________________________ -->			  
+
+				<header class="vl-header-holder vl-header-fixed" data-header-fixed="1">
+					<div class="container">
+						<div class="vl-header-inner">
+							<div class="vl-header-left">
+								<a href="index.html" class="vl-site-logo">
+								  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceRWhite.png" alt="Nüance-R" style="max-height: 39px">
+								</a>
+							</div>
+							<div class="vl-header-right">
+								<div class="vl-menu-toggle vl-aside-menu-toggle" data-before-text="Menu">
+									<span class="line line-one"><span class="inner"></span></span>
+									<span class="line line-two"><span class="inner"></span></span>
+									<span class="line line-three"><span class="inner"></span></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</header>
+
+
+<!-- ## Navigation Menu 
+    _________________________________________________________________________ -->	
+        
+        <div class="vl-navigation-aside-overlay"></div>
+				<!-- /.vl-navigation-aside-overlay -->
+        
+				<!-- /.vl-header-holder vl-header-fixed -->
+				<div class="vl-navigation-aside-holder">
+					<div class="vl-navigation-aside">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="index.html">Portfolio</a></li>
+							<li><a href="principalInvestigator.html">Principal Investigator</a></li>
+							<li><a href="contact.html">Contact Us</a></li>
+						</ul>
+						<div class="vl-navigation-socials">
+							<ul>
+								<li><a href="https://twitter.com/nuance_r" class="tooltip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="https://www.linkedin.com/company/nuance-r/" class="tooltip" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="https://github.com/nuance-r" class="tooltip" title="GitHub"><i class="fa fa-github"></i></a></li>
+							</ul>
+						</div>
+						<!-- /.vl-navigation-socials -->
+					</div>
+				</div>
+				<!-- /.vl-navigation-fullscreen-holder -->
+				
+
+
+<!-- ## First Gallery
+    _________________________________________________________________________ -->	
+			
+				<div class="vl-hero-title-holder jarallax" style="background-image: url(https://sites.socialdatasciencelab.org/imgPreview/mapNuanceRBlack.png); background-sizing: 100% 80%;">
+					<div class="vl-hero-title-inner">
+						<h1 class="vl-hero-title">Principal Investigator</h1>
+						<p class="vl-hero-subtitle">
+						  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
+						</p>
+					</div>
+				</div>
+				<!-- /.vl-hero-title-holder -->
+		
+
+<!-- ## Principal Investigator Description
+    _________________________________________________________________________ -->	
+				<main class="vl-main-holder vl-main-padding">
+				  
+				  
+				  <section class="vl-main-padding-bottom">
+						<div class="container">
+							<div class="row">
+
+								<div class="col-md-12">
+									<h3 class="mb30">SKEMA Global Lab in Augmented Intelligence</h3>
+									<p class="text-justify">
+ 
+ 
+SKEMA Business School launches a global research laboratory in Augmented Intelligence: the SKEMA AI Global Lab. The objective is to bridge the gap between data science, artificial intelligence and the digital transformation of companies and our societies.
+<br><br>
+With an initial budget of more than 3 million euros, SKEMA Business School's objective is to make this laboratory one of the leading centres for augmented intelligence over the next 5 years. By developing Data Science and Artificial Intelligence algorithms, the laboratory will specialize in predictive modeling dedicated to the new challenges facing companies and our societies.
+<br><br>
+Augmented intelligence is the science of data and artificial intelligence at the service of humans. The laboratory will play a role as an accelerator of research and digital transformation of lessons on all SKEMA Business School campuses through the use of a state-of-the-art platform. Other private funding and a major technology partner are expected to quickly join the SKEMA AI Global Lab to make it a world-class research laboratory. Collaborations will be developed within SKEMA itself and with research centres around the world.
+<br><br>
+Professor in Applied Data Science for International Affairs and creator of a technological platform dedicated to research in data science and artificial intelligence, Professor Thierry Warin will join SKEMA in January 2019 to create and manage the laboratory. The DNA of this laboratory is to be an "undisciplined laboratory", in the sense that it will be truly multidisciplinary, fundamentally exploratory and often anti-conformist. One of PLOS One's academic editors, Thierry Warin has been a full professor at HEC Montréal since 2013 and Visiting Scholar at Harvard University on several occasions in the past 10 years. He has conducted research with the Weatherhead Center for International Business at Harvard and CIRANO in Montreal where he created an international data visualization platform (Mondo International) and the Social Data Science Lab.
+<br><br>
+The creation of the SKEMA global laboratory in augmented intelligence is concomitant with the recruitment of 6 researchers who will develop their work from Professor Warin's platform, with the objective within 2 years of supporting companies on all the sites where SKEMA operates.
+<br><br>
+The SKEMA AI Global Lab will be based in Raleigh, North Carolina, in the heart of the "Triangle" of American research, one of the main innovation poles in the United States, just behind Silicon Valley. From the outset, the SKEMA AI Global Lab will set up branches in 2 other innovation clusters that are part of 2 SKEMA sites: Paris and Sophia-Antipolis.
+<br><br>
+The construction of the SKEMA AI Global Lab will be carried out in three phases:
+<br>
+- 1st phase: development of research capacities in data science and applied artificial intelligence at SKEMA's 6 sites on 3 continents;<br>
+- 2nd phase: transfer of research work to all the school's programmes throughout the world and to all students;<br>
+- 3rd phase: promotion and dissemination of the work by the school to companies in all the territories where it is located.
+<br><br>
+"I am delighted to be able to design this laboratory with SKEMA, which is unique in terms of its nature (global since its creation), its cutting-edge methods (Data science and artificial intelligence) and its fields of study (Finance, International Affairs, Strategy...). By creating this global research laboratory in augmented intelligence, we are giving ourselves a head start on what comes after fundamental research in artificial intelligence. We will focus on applications for society and business by putting technology at the service of people. The SKEMA AI Global Lab will help create a new generation of managers and leaders ready to lead 21st century companies with tools and analytical thinking that meet the challenges of the 21st century," says Thierry Warin, SKEMA Laboratory Director.
+<br><br>
+"The purpose of this laboratory is to bring together a leading data science research team, a global research network and the use of cutting-edge technology to develop platforms and algorithms to support digitalization, innovation and the strategies of globalized companies.
+<br><br>
+By currently actively participating in AI projects in France through "Impact IA" with Microsoft and "3IA Côte d'Azur", SKEMA is affirming its position on the knowledge economy by equipping itself with this global laboratory and adequate human resources to become one of the very first laboratories in augmented intelligence.
+
+
+							    </p>
+							</div>
+						</div>
+					</section>
+					<!-- /.vl-main-padding-top -->
+				</main>
+				<!-- /.vl-main-holder vl-main-padding -->
+			</div>
+			<!-- /.vl-content-holder -->
+
+
+
+<!-- ## Footer page 
+    _________________________________________________________________________ -->				
+			
+			<footer class="vl-footer-holder vl-footer-minimal" data-footer-fixed="1">
+				<div class="vl-footer-inner">
+					<div class="container">
+					  <div class="text-center">
+							<a href="https://www.nuance-r.com" class="vl-site-logo">
+							  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
+							</a>
+  					  <div class="vl-footer-copyright">
+  							<p>
+  							  Copyright © ThW & Associates. Powered by <a href="#" class="vl-link reverse">Nüance-R</a>
+  							</p>
+  						</div>
+  					</div>
+					</div>
+				</div>
+			</footer>
+			<!-- /.vl-footer-holder -->
+			
+			
+		</div>
+		<!-- /.vl-site-holder -->
+		<a href="#" class="vl-back-to-top hidden"><i class="fa fa-angle-up"></i></a>
+		<!-- /.vl-back-to-top -->
+	</body>
+	
+	
+	
+	<!-- SCRIPTS -->
+	<script src="assets/vendors/jquery.min.js"></script>
+	<script src="assets/scripts/plugins.min.js"></script>
+	<script type="text/javascript">
+		jQuery.noConflict()(function($){
+			var gridContainer = $('#cubeportfolio');
+			gridContainer.imagesLoaded(function(){
+				gridContainer.cubeportfolio({
+					defaultFilter: '*',
+					filters: '.vl-portfolio-grid-filters',
+					animationType: 'fadeOut',
+					layoutMode: 'grid', //mosaic
+						sortToPreventGaps: true,
+					gapHorizontal: 30,
+					gapVertical: 30,
+					gridAdjustment: 'responsive',
+					mediaQueries: 
+					[{
+						width: 1170,
+						cols: 3,
+					}, {
+						width: 991,
+						cols: 3,
+					}, {
+						width: 767,
+						cols: 2,
+					}, {
+						width: 575,
+						cols: 1,
+					}],
+					displayType: 'default',
+					displayTypeSpeed: 150,
+				});
+			});
+		});
+	</script>
+	<script src="assets/scripts/script.js"></script>
+</html>
