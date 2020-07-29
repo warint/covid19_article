@@ -72,7 +72,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- FAVICON -->
-		<link rel="icon" type="image/png" href="https://sites.socialdatasciencelab.org/metadataicons/favicon.png">
+		<link rel="icon" type="image/png" href="https://warin.ca/ressources/metadataicons/favicon.png">
 		<!-- FONTS -->
 		<link rel="stylesheet" href="assets/fonts/fontawesome/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/fonts/iconsmind/iconsmind.css">
@@ -98,7 +98,7 @@
 						<div class="vl-header-inner">
 							<div class="vl-header-left">
 								<a href="index.html" class="vl-site-logo">
-								  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceRWhite.png" alt="Nüance-R" style="max-height: 39px">
+								  <img src="https://warin.ca/ressources/logo/logoNuanceRWhite.png" alt="Nüance-R" style="max-height: 39px">
 								</a>
 							</div>
 							<div class="vl-header-right">
@@ -145,11 +145,11 @@
 <!-- ## First Gallery
     _________________________________________________________________________ -->	
 			
-				<div class="vl-hero-title-holder jarallax" style="background-image: url(https://sites.socialdatasciencelab.org/imgPreview/mapNuanceRBlack.png); background-sizing: 100% 80%;">
+				<div class="vl-hero-title-holder jarallax" style="background-image: url(https://warin.ca/ressources/imgPreview/mapNuanceRBlack.png); background-sizing: 100% 80%;">
 					<div class="vl-hero-title-inner">
 						<h1 class="vl-hero-title">Principal Investigator</h1>
 						<p class="vl-hero-subtitle">
-						  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
+						  <img src="https://warin.ca/ressources/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
 						</p>
 					</div>
 				</div>
@@ -215,7 +215,7 @@ By currently actively participating in AI projects in France through "Impact IA"
 					<div class="container">
 					  <div class="text-center">
 							<a href="https://www.nuance-r.com" class="vl-site-logo">
-							  <img src="https://sites.socialdatasciencelab.org/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
+							  <img src="https://warin.ca/ressources/logo/logoNuanceR.png" alt="Nüance-R" style="max-height: 39px">
 							</a>
   					  <div class="vl-footer-copyright">
   							<p>
