@@ -92,7 +92,7 @@ Table 2. Potential Modules
 | Bibliometrics        | Topic Modelling           | Covid-19 & International Flows |
 | Covid-19 & Finance   | Covid-19 & Public Policies| Covid-19 & Ethics              |
 
-In each module, students would find a series of examples as well as the code from our virtual campus to replicate the principles behind these examples (see [here](https://www.virtualcampus.skemagloballab.io/simulation/potentialModules/module1.html) for an example).
+In each module, students would find a series of examples as well as the code from our virtual campus to replicate the principles behind these examples (see [here](https://www.warin.ca/simulation/potentialModules/module1.html) for an example).
 
 An interesting feature of the course-project is that it was a jump in - jump out system where teams could enter in the competition at any point of time during this period and could submit their module whenever they wanted during this period and at the latest on May 18th, 2020. It offered some necessary agility to help transition from a course in a physcial classroom to an online course.
 
