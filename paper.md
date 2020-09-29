@@ -103,7 +103,7 @@ We have also developed a unique learning environment to support this Hacking Hea
 
 # Acknowledgements
 
-The author would like to thank the Center for Interuniversity Research and Analysis of Organizations (CIRANO, Montreal) for its support, as well as Thibault Senegas, Marine Leroi, Antoine, Debien, Anne-Sophie Gill, Catherine Feuillet and Martin Paquette at the SKEMA Global Lab in AI (Montreal, Canada). The usual caveats apply.
+The author would like to thank the Center for Interuniversity Research and Analysis of Organizations (CIRANO, Montreal) for its support, as well as Thibault Senegas, Marine Leroi, and Martin Paquette. The usual caveats apply.
 
 # References
 
