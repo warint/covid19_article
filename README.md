@@ -49,7 +49,7 @@ Table 1. Coding School Topics
 | R Nanocourse 4. dynamic Documents        | Flexdashboards with RMarkdown                   | Collecting Twitter Data |
 | R Nanocourse 5. Descriptive Statistics   | Dash and Plotly in R                            | API: shapeR             |
 
-To simplify the process, we also created two packages for this project: (1) a first package about scientific references in epidemiology and coronaviruses more specifically (around 60,000 references and 22 metadata), called EpiBibR ([https://github.com/warint/EpiBibR](https://github.com/warint/EpiBibR)), and (2) a second package, called shapeR ([https://github.com/warint/shapeR](https://github.com/warint/shapeR)), to facilitate the use of shapefiles, should they want to do a mapping exercise.
+To simplify the process, we also created two packages for this project: (1) a first package about scientific references in epidemiology and coronaviruses more specifically (more than 85,000 references and 22 metadata), called EpiBibR ([https://github.com/warint/EpiBibR](https://github.com/warint/EpiBibR)), and (2) a second package, called shapeR ([https://github.com/warint/shapeR](https://github.com/warint/shapeR)), to facilitate the use of shapefiles, should they want to do a mapping exercise.
 
 We proposed 12 examples of modules covering the wider perimeter of data science (see Table 2).
 
